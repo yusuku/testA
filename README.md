@@ -24,18 +24,19 @@ windows
 
 # Installation
 
-download all 
+すべてのコードをダウンロード
+My project.exeを実行
 
 # Usage
 
-Please create python code named "demo.py".
-And copy &amp; paste [Day4 tutorial code](https://cpp-learning.com/pyxel_physical_sim4/).
 
-Run "demo.py"
-
-```bash
-python demo.py
-```
+![スクリーンショット 2023-03-04 231219](https://user-images.githubusercontent.com/121999446/222907475-4d9f602e-b08e-4f22-afd9-85f5349dec94.png)
+1. スライダーを上下することで各領域を解体拡張
+1. 
+1.
+1.
+1.
+1.
 
 # Note
 
