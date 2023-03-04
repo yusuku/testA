@@ -1,10 +1,10 @@
-# Physics_Sim_Py
+# 脳ネットワークアプリ
 
-"Physics_Sim_Py" is a tutorial of physics simulations with Python.
+"脳ネットワークアプリ" は３Dで直感的な脳ネットワークの表示をします
 
 # DEMO
 
-You can learn how to making cute physics simulations (looks retro game).
+領域名にチェックを入れてネットワークを作成できます
 
 
 
@@ -16,34 +16,15 @@ This animation is a "Cat playing on trampoline"!
 You can get basic skills for making physics simulations.
 
 # Features
+![スクリーンショット 2023-02-12 200944](https://user-images.githubusercontent.com/121999446/222879192-e0353a06-4f7e-4f54-b49d-1b8f2aae7e92.png)
 
-Physics_Sim_Py used [pyxel](https://github.com/kitao/pyxel) only.
-
-```python
-import pyxel
-```
-[Pyxel](https://github.com/kitao/pyxel) is a retro game engine for Python.
-You can feel free to enjoy making pixel art style physics simulations.
 
 # Requirement
-
-* Python 3.6.5
-* pyxel 1.0.2
-
-Environments under [Anaconda for Windows](https://www.anaconda.com/distribution/) is tested.
-
-```bash
-conda create -n pyxel pip python=3.6 Anaconda
-activate pyxel
-```
+windows
 
 # Installation
 
-Install Pyxel with pip command.
-
-```bash
-pip install pyxel
-```
+download all 
 
 # Usage
 
